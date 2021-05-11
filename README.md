@@ -1,2 +1,0 @@
-# IPMP
-Coding Practice
